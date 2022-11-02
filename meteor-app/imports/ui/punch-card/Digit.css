@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+.Punch-Card,
+.member-visit-card,
+.multi-visit-card {
+  font-family: 'Lato', sans-serif;
+  width: 500px;
+  margin: 10px;
+  padding: 10px;
+  background-color: orange;
+  border-radius: 6px;
+}
+
+.Container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.Digit,
+.usedMultiDigit,
+.multiDigit {
+  margin: auto;
+  border-radius: 50%;
+  font-weight: bold;
+  background: white;
+  width: 70px;
+  height: 70px;
+  font-size: 40px;
+  text-align: center;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  object-fit: contain;
+}
+.usedMultiDigit {
+  background: none;
+  padding: 0;
+}
+.multiDigit {
+  color: white;
+  background: rgb(202, 120, 48);
+  border: 1px solid rgb(170, 104, 4);
+}
+.cardHeader {
+  font-size: 40px;
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+}
+.cardFooter {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 20px;
+}
+.weekName {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+}
+.digitParent {
+  width: auto;
+  height: auto;
+  margin: 5px;
+  text-align: center;
+  color: white;
+}

@@ -1,0 +1,5181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Assessment.Add  AssessmentAddControl 1`] = `
+<div>
+  <p>
+    Use Knobs to select step, currently on step 
+    1
+  </p>
+  <div
+    style={
+      Object {
+        "marginTop": "50px",
+      }
+    }
+  >
+    <button
+      className="ui left floated button"
+      onClick={[Function]}
+      role="button"
+      type="button"
+    >
+      <i
+        aria-hidden="true"
+        className="arrow left icon"
+      />
+      Back
+    </button>
+    <button
+      className="ui right floated button"
+      onClick={[Function]}
+      role="button"
+      type="submit"
+    >
+      Next
+      <i
+        aria-hidden="true"
+        className="arrow right icon"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Assessment.Add AssessmentAdd 1`] = `null`;
+
+exports[`Storyshots Assessment.PrintJobCard Print Job Card 1`] = `
+<div>
+  <button
+    className="ui button"
+    onClick={[Function]}
+    role="button"
+  >
+     Print Job 
+  </button>
+</div>
+`;
+
+exports[`Storyshots Assessment.ServiceCard Major Service Card 1`] = `
+<div>
+  <button
+    className="ui button"
+    onClick={[Function]}
+    role="button"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "minWidth": "100%",
+      }
+    }
+  >
+    <div
+      className="ui card"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#0081D3",
+          "color": "white",
+          "minWidth": "100%",
+        }
+      }
+    >
+      <div
+        className="content"
+        onClick={[Function]}
+        style={
+          Object {
+            "minHeight": "420px",
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="header"
+          style={
+            Object {
+              "color": "white",
+              "fontSize": "1.5em",
+              "paddingTop": "15px",
+            }
+          }
+        >
+          Major Service $120
+        </div>
+        <div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "color": "white",
+                "paddingTop": "20px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="bicycle icon"
+            />
+            Includes everything from a minor service
+          </div>
+          <h3
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "paddingTop": "12px",
+                "textAlign": "center",
+              }
+            }
+          >
+            PLUS
+          </h3>
+        </div>
+        <div
+          className="ui list"
+          role="list"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Check wheels are true
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Clean and re-grease wheel bearings
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Clean and re-grease headset
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Clean and re-grease bottom bracket
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Clean and re-grease seat post & clamps
+          </div>
+        </div>
+      </div>
+    </div>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Assessment.ServiceCard Minor Service Card 1`] = `
+<div>
+  <button
+    className="ui button"
+    onClick={[Function]}
+    role="button"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "minWidth": "100%",
+      }
+    }
+  >
+    <div
+      className="ui card"
+      onClick={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#00C646",
+          "color": "white",
+          "minWidth": "100%",
+        }
+      }
+    >
+      <div
+        className="content"
+        onClick={[Function]}
+        style={
+          Object {
+            "minHeight": "420px",
+            "width": "100%",
+          }
+        }
+      >
+        <div
+          className="header"
+          style={
+            Object {
+              "color": "white",
+              "fontSize": "1.5em",
+              "paddingTop": "15px",
+            }
+          }
+        >
+          Minor Service $60
+        </div>
+        <div
+          className="ui list"
+          role="list"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Check functionality/adjust brakes & gears
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Check hubs for wear/play
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Remove, clean & oil chain
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Clean rear cassette
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Check tyre pressure
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Lube deraileurs
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+            style={
+              Object {
+                "padding": "10px",
+              }
+            }
+          >
+            <i
+              aria-hidden="true"
+              className="wrench icon"
+            />
+            Check/tighten bolts on cranks, headset, wheels and bottom bracket
+          </div>
+        </div>
+      </div>
+    </div>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Assessment.ServiceList Service List 1`] = `
+<div>
+  <h2
+    className="ui center aligned header"
+  >
+    Select Base Assessment
+  </h2>
+  <div
+    className="ui vertically divided grid"
+  >
+    <div
+      className="stretched two column row"
+    >
+      <div
+        className="center aligned right floated five wide computer five wide tablet column"
+      >
+        <button
+          className="ui button"
+          onClick={[Function]}
+          role="button"
+          style={
+            Object {
+              "backgroundColor": "white",
+              "minWidth": "100%",
+            }
+          }
+        >
+          <div
+            className="ui card"
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#00C646",
+                "color": "white",
+                "minWidth": "100%",
+              }
+            }
+          >
+            <div
+              className="content"
+              onClick={[Function]}
+              style={
+                Object {
+                  "minHeight": "420px",
+                  "width": "100%",
+                }
+              }
+            >
+              <div
+                className="header"
+                style={
+                  Object {
+                    "color": "white",
+                    "fontSize": "1.5em",
+                    "paddingTop": "15px",
+                  }
+                }
+              >
+                Minor Service $60
+              </div>
+              <div
+                className="ui list"
+                role="list"
+              >
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Check functionality/adjust brakes & gears
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Check hubs for wear/play
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Remove, clean & oil chain
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Clean rear cassette
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Check tyre pressure
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Lube deraileurs
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Check/tighten bolts on cranks, headset, wheels and bottom bracket
+                </div>
+              </div>
+            </div>
+          </div>
+        </button>
+      </div>
+      <div
+        className="center aligned left floated five wide computer five wide tablet column"
+      >
+        <button
+          className="ui button"
+          onClick={[Function]}
+          role="button"
+          style={
+            Object {
+              "backgroundColor": "white",
+              "minWidth": "100%",
+            }
+          }
+        >
+          <div
+            className="ui card"
+            onClick={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#0081D3",
+                "color": "white",
+                "minWidth": "100%",
+              }
+            }
+          >
+            <div
+              className="content"
+              onClick={[Function]}
+              style={
+                Object {
+                  "minHeight": "420px",
+                  "width": "100%",
+                }
+              }
+            >
+              <div
+                className="header"
+                style={
+                  Object {
+                    "color": "white",
+                    "fontSize": "1.5em",
+                    "paddingTop": "15px",
+                  }
+                }
+              >
+                Major Service $120
+              </div>
+              <div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "color": "white",
+                      "paddingTop": "20px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="bicycle icon"
+                  />
+                  Includes everything from a minor service
+                </div>
+                <h3
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "paddingTop": "12px",
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  PLUS
+                </h3>
+              </div>
+              <div
+                className="ui list"
+                role="list"
+              >
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Check wheels are true
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Clean and re-grease wheel bearings
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Clean and re-grease headset
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Clean and re-grease bottom bracket
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}
+                  role="listitem"
+                  style={
+                    Object {
+                      "padding": "10px",
+                    }
+                  }
+                >
+                  <i
+                    aria-hidden="true"
+                    className="wrench icon"
+                  />
+                  Clean and re-grease seat post & clamps
+                </div>
+              </div>
+            </div>
+          </div>
+        </button>
+      </div>
+    </div>
+    <div
+      className="centered one column row"
+    >
+      <div
+        className="six wide column"
+      >
+        <button
+          className="ui big fluid secondary button"
+          onClick={[Function]}
+          role="button"
+        >
+          Custom Service
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Cart Confirm Order button 1`] = `
+<div>
+  <button
+    className="ui icon primary right labeled button"
+    onClick={[Function]}
+    role="button"
+  >
+    <i
+      aria-hidden="true"
+      className="check circle big icon"
+    />
+    CONFIRM 
+    <br />
+     ORDER
+  </button>
+</div>
+`;
+
+exports[`Storyshots Cart Edit-Delete Button 1`] = `
+<div
+  className="ui buttons"
+>
+  <button
+    className="ui green button"
+    onClick={[Function]}
+    role="button"
+  >
+    EDIT
+  </button>
+  <div
+    className="or"
+    data-text="or"
+  />
+  <button
+    className="ui red button"
+    onClick={[Function]}
+    role="button"
+  >
+    DELETE
+  </button>
+</div>
+`;
+
+exports[`Storyshots Cart Icon Cart 1`] = `
+<span
+  to="/parts/ordering/cart"
+>
+  <div
+    className="ui right labeled button"
+    onClick={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <button
+      className="ui primary button"
+      onClick={[Function]}
+      role="button"
+    >
+      <i
+        aria-hidden="true"
+        className="cart icon"
+      />
+      Total items
+    </button>
+    <div
+      className="ui left pointing basic label"
+      onClick={[Function]}
+    >
+      0
+    </div>
+  </div>
+</span>
+`;
+
+exports[`Storyshots Cart.List Cart List 1`] = `
+<div>
+  <div>
+    <div
+      style={
+        Object {
+          "alignContent": "center",
+          "display": "flex",
+          "flexWrap": "wrap",
+          "height": "100%",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <div
+        className="ui center aligned container"
+      >
+        <span
+          to="/ordering"
+        >
+          <button
+            className="ui icon secondary left labeled button"
+            onClick={[Function]}
+            role="button"
+          >
+            <i
+              aria-hidden="true"
+              className="triangle left icon"
+            />
+            Back to search parts
+          </button>
+        </span>
+        <h2
+          className="ui block header"
+        >
+          Orders
+        </h2>
+        <div>
+          <div
+            className="ui center aligned container section-to-print"
+          >
+            <div
+              className="ui blue clearing raised segment review"
+            >
+              <h3
+                className="ui block header"
+              >
+                Please review your current order
+              </h3>
+              <span
+                to="/parts/ordering/cart"
+              >
+                <div
+                  className="ui right labeled button"
+                  onClick={[Function]}
+                  role="button"
+                  tabIndex={0}
+                >
+                  <button
+                    className="ui primary button"
+                    onClick={[Function]}
+                    role="button"
+                  >
+                    <i
+                      aria-hidden="true"
+                      className="cart icon"
+                    />
+                    Total items
+                  </button>
+                  <div
+                    className="ui left pointing basic label"
+                    onClick={[Function]}
+                  >
+                    0
+                  </div>
+                </div>
+              </span>
+              <table
+                className="ui large celled striped very compact table"
+              >
+                <thead
+                  className=""
+                >
+                  <tr
+                    className=""
+                  >
+                    <th
+                      className=""
+                    >
+                      Part #
+                    </th>
+                    <th
+                      className=""
+                    >
+                      Part
+                    </th>
+                    <th
+                      className=""
+                    >
+                      Price
+                    </th>
+                    <th
+                      className=""
+                    >
+                      Qty
+                    </th>
+                    <th
+                      className=""
+                    >
+                      Total
+                    </th>
+                    <th
+                      className="noPrint"
+                    >
+                      Edit
+                    </th>
+                  </tr>
+                </thead>
+                <tbody
+                  className=""
+                />
+              </table>
+              <div
+                className="ui fluid labeled input"
+              >
+                <div
+                  className="ui label label"
+                  onClick={[Function]}
+                >
+                  Additional notes
+                </div>
+                <input
+                  onChange={[Function]}
+                  type="text"
+                />
+              </div>
+              <br />
+              <div
+                className="ui container"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui big primary button noPrint"
+                    onClick={[Function]}
+                    role="button"
+                  >
+                    Print Order
+                  </button>
+                  <div
+                    className="or"
+                  />
+                  <button
+                    className="ui olive big button noPrint"
+                    onClick={[Function]}
+                    role="button"
+                  >
+                    Archive Order
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="ui center aligned container"
+        >
+          <div
+            className="ui olive clearing inverted raised secondary segment review"
+          >
+            <h3
+              className="ui header"
+            >
+              Previous Orders
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Cart.ListItem Cart List Item 1`] = `
+<div>
+  <table
+    className="ui large celled single line very compact table"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className=""
+      >
+        <td
+          className="collapsing left aligned"
+        >
+          <div
+            className="ui big ribbon label"
+            onClick={[Function]}
+          >
+            91234567
+          </div>
+        </td>
+        <td
+          className="partDescription"
+        >
+          Asperiores sed numquam rerum sunt sunt amet. Inventore molestiae possimus iste dolor.
+        </td>
+        <td
+          className="collapsing left aligned"
+        >
+          $
+          0.74
+        </td>
+        <td
+          className="collapsing left aligned"
+        >
+          2.39478
+        </td>
+        <td
+          className="collapsing left aligned"
+        >
+          $
+          1.78
+        </td>
+        <td
+          className="collapsing center aligned noPrint"
+        >
+          <div
+            className="ui buttons"
+          >
+            <button
+              className="ui green button"
+              onClick={[Function]}
+              role="button"
+            >
+              +
+            </button>
+            <button
+              className="ui button"
+              onClick={[Function]}
+              role="button"
+            >
+              -
+            </button>
+            <button
+              className="ui red button"
+              onClick={[Function]}
+              role="button"
+            >
+              Delete
+            </button>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Storyshots Courses Courses Card 1`] = `
+<div>
+  <div
+    className="course-container product-content"
+  >
+    <div
+      className="course-card"
+    >
+      <div
+        className="course-card-details"
+      >
+        <img
+          src="/images/gym.jpg"
+        />
+        <h1>
+          awesome course similar to awesome sauce, but a course
+        </h1>
+        <span>
+          Starting on: 
+          2019-02-18T16:00:00Z
+          , Ending on: 
+          2019-03-18T16:00:00Z
+        </span>
+        <p>
+          10 visits, usable at any of our evening sessions 
+        </p>
+        <div>
+          <button
+            className="StripeCheckout"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onMouseDown={[Function]}
+            onMouseOut={[Function]}
+            onMouseUp={[Function]}
+            style={
+              Object {
+                "background": "linear-gradient(#28a0e5,#015e94)",
+                "border": 0,
+                "borderRadius": 5,
+                "boxShadow": "0 1px 0 rgba(0,0,0,0.2)",
+                "cursor": "pointer",
+                "display": "inline-block",
+                "overflow": "hidden",
+                "padding": 1,
+                "textDecoration": "none",
+                "userSelect": "none",
+                "visibility": "visible",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "backgroundImage": "linear-gradient(#7dc5ee,#008cdd 85%,#30a2e4)",
+                  "borderRadius": 4,
+                  "boxShadow": "inset 0 1px 0 rgba(255,255,255,0.25)",
+                  "color": "#fff",
+                  "display": "block",
+                  "fontFamily": "\\"Helvetica Neue\\",Helvetica,Arial,sans-serif",
+                  "fontSize": 14,
+                  "fontWeight": "bold",
+                  "height": 30,
+                  "lineHeight": "30px",
+                  "padding": "0 12px",
+                  "position": "relative",
+                  "textShadow": "0 -1px 0 rgba(0,0,0,0.25)",
+                }
+              }
+            >
+              Pay Back2Bikes
+            </span>
+          </button>
+        </div>
+        <hr />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Job Card Job Card Cancelled 1`] = `
+<div
+  className="accordion ui fluid styled job-card-container"
+>
+  <div
+    className="title"
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#ffb2b2",
+        "fontSize": "1.5em",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="five column row"
+        mobile={2}
+      >
+        <div
+          className="one wide column"
+        >
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+          />
+        </div>
+        <div
+          className="three wide column"
+        >
+          <div>
+            <strong>
+              Cancelled
+            </strong>
+          </div>
+        </div>
+        <div
+          className="six wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            JOB911 White Giant Cypress
+          </div>
+        </div>
+        <div
+          className="four wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            Damien Corwin
+          </div>
+        </div>
+        <div
+          className="two wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            $
+            117.37
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+    style={
+      Object {
+        "fontSize": "1em",
+        "marginLeft": "28px",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="two column row"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      >
+        <div
+          className="column"
+          style={
+            Object {
+              "fontSize": "1.2em",
+            }
+          }
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <strong>
+              Custom Service
+               
+            </strong>
+             Due: 
+            26/9/2018
+             
+            <strong>
+              Mechanic: 
+            </strong>
+            Amie Welch
+          </div>
+          <ul>
+            <strong>
+              Activity: 
+            </strong>
+            <li>
+              Sat 1st Sep, 10:00 am - Update Status: Cancelled
+            </li>
+          </ul>
+          <br />
+          <div
+            className="ui buttons"
+          >
+            <button
+              className="ui green button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "textAlign": "center",
+                  "width": "200px",
+                }
+              }
+            >
+              <h2>
+                Cancelled
+              </h2>
+            </button>
+            <button
+              className="ui red button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "marginLeft": "10px",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <h2>
+                Re-open Job
+              </h2>
+            </button>
+          </div>
+        </div>
+        <div
+          className="column"
+          style={
+            Object {
+              "textAlign": "right",
+            }
+          }
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui teal button ui button"
+                id="add_mechanic"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Assign mechanic"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="doctor icon"
+                  />
+                </h1>
+                Amie W
+              </button>
+              <button
+                className="ui blue button ui button"
+                onClick={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="print icon"
+                  />
+                </h1>
+                Job Card
+              </button>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui pink button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Call customer"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="phone icon"
+                  />
+                </h1>
+                Call Customer
+              </button>
+              <button
+                className="ui purple button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="talk icon"
+                  />
+                </h1>
+                Send SMS
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Job Card Job Card In Progress 1`] = `
+<div
+  className="accordion ui fluid styled job-card-container"
+>
+  <div
+    className="title"
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#d2abd2",
+        "fontSize": "1.5em",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="five column row"
+        mobile={2}
+      >
+        <div
+          className="one wide column"
+        >
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+          />
+        </div>
+        <div
+          className="three wide column"
+        >
+          <div>
+            <strong>
+              In Progress
+            </strong>
+          </div>
+        </div>
+        <div
+          className="six wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            JOB911 Teal Specialized Defy
+          </div>
+        </div>
+        <div
+          className="four wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            Mrs. Coleman Pouros
+          </div>
+        </div>
+        <div
+          className="two wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            $
+            158
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+    style={
+      Object {
+        "fontSize": "1em",
+        "marginLeft": "28px",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="two column row"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      >
+        <div
+          className="column"
+          style={
+            Object {
+              "fontSize": "1.2em",
+            }
+          }
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <strong>
+              Custom Service
+               
+            </strong>
+             Due: 
+            26/9/2018
+             
+            <strong>
+              Mechanic: 
+            </strong>
+            Lupe Beahan PhD
+          </div>
+          <ul>
+            <strong>
+              Activity: 
+            </strong>
+            <li>
+              Sat 1st Sep, 10:00 am - Update Status: In Progress
+            </li>
+          </ul>
+          <br />
+          <div
+            className="ui buttons"
+          >
+            <button
+              className="ui green button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "textAlign": "center",
+                  "width": "200px",
+                }
+              }
+            >
+              <h2>
+                Service Done
+              </h2>
+            </button>
+            <button
+              className="ui red button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "marginLeft": "10px",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <h2>
+                Cancel Job
+              </h2>
+            </button>
+          </div>
+        </div>
+        <div
+          className="column"
+          style={
+            Object {
+              "textAlign": "right",
+            }
+          }
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui teal button ui button"
+                id="add_mechanic"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Assign mechanic"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="doctor icon"
+                  />
+                </h1>
+                Lupe P
+              </button>
+              <button
+                className="ui blue button ui button"
+                onClick={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="print icon"
+                  />
+                </h1>
+                Job Card
+              </button>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui pink button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Call customer"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="phone icon"
+                  />
+                </h1>
+                Call Customer
+              </button>
+              <button
+                className="ui purple button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="talk icon"
+                  />
+                </h1>
+                Send SMS
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Job Card Job Card New 1`] = `
+<div
+  className="accordion ui fluid styled job-card-container"
+>
+  <div
+    className="title"
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "lightblue",
+        "fontSize": "1.5em",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="five column row"
+        mobile={2}
+      >
+        <div
+          className="one wide column"
+        >
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+          />
+        </div>
+        <div
+          className="three wide column"
+        >
+          <div>
+            <strong>
+              New
+            </strong>
+          </div>
+        </div>
+        <div
+          className="six wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            JOB911 Violet Apollo Defy
+          </div>
+        </div>
+        <div
+          className="four wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            Dr. Rosetta Collier
+          </div>
+        </div>
+        <div
+          className="two wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            $
+            134.54
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+    style={
+      Object {
+        "fontSize": "1em",
+        "marginLeft": "28px",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="two column row"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      >
+        <div
+          className="column"
+          style={
+            Object {
+              "fontSize": "1.2em",
+            }
+          }
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <strong>
+              Custom Service
+               
+            </strong>
+             Due: 
+            26/9/2018
+             
+            <strong>
+              Mechanic: 
+            </strong>
+            Claudie Weissnat
+          </div>
+          <ul>
+            <strong>
+              Activity: 
+            </strong>
+            <li>
+              Sat 1st Sep, 10:00 am - New Job Created By Mike
+            </li>
+          </ul>
+          <br />
+          <div
+            className="ui buttons"
+          >
+            <button
+              className="ui green button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "textAlign": "center",
+                  "width": "200px",
+                }
+              }
+            >
+              <h2>
+                Start
+              </h2>
+            </button>
+            <button
+              className="ui red button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "marginLeft": "10px",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <h2>
+                Cancel Job
+              </h2>
+            </button>
+          </div>
+        </div>
+        <div
+          className="column"
+          style={
+            Object {
+              "textAlign": "right",
+            }
+          }
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui teal button ui button"
+                id="add_mechanic"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Assign mechanic"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="doctor icon"
+                  />
+                </h1>
+                Claudie W
+              </button>
+              <button
+                className="ui blue button ui button"
+                onClick={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="print icon"
+                  />
+                </h1>
+                Job Card
+              </button>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui pink button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Call customer"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="phone icon"
+                  />
+                </h1>
+                Call Customer
+              </button>
+              <button
+                className="ui purple button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="talk icon"
+                  />
+                </h1>
+                Send SMS
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Job Card Job Card Picked Up 1`] = `
+<div
+  className="accordion ui fluid styled job-card-container"
+>
+  <div
+    className="title"
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#ABD3B8",
+        "fontSize": "1.5em",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="five column row"
+        mobile={2}
+      >
+        <div
+          className="one wide column"
+        >
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+          />
+        </div>
+        <div
+          className="three wide column"
+        >
+          <div>
+            <strong>
+              Picked Up
+            </strong>
+          </div>
+        </div>
+        <div
+          className="six wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            JOB911 Tan Giant Cypress
+          </div>
+        </div>
+        <div
+          className="four wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            Refurbish
+          </div>
+        </div>
+        <div
+          className="two wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            $
+            161.76
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+    style={
+      Object {
+        "fontSize": "1em",
+        "marginLeft": "28px",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="two column row"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      >
+        <div
+          className="column"
+          style={
+            Object {
+              "fontSize": "1.2em",
+            }
+          }
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <strong>
+              Major Service
+               
+            </strong>
+             Due: 
+            26/9/2018
+             
+            <strong>
+              Mechanic: 
+            </strong>
+            Drake Flatley
+          </div>
+          <ul>
+            <strong>
+              Activity: 
+            </strong>
+            <li>
+              Sat 1st Sep, 10:00 am - Update Status: Picked Up
+            </li>
+          </ul>
+          <br />
+          <div
+            className="ui buttons"
+          >
+            <button
+              className="ui green button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "textAlign": "center",
+                  "width": "200px",
+                }
+              }
+            >
+              <h2>
+                Completed
+              </h2>
+            </button>
+            <button
+              className="ui red button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "marginLeft": "10px",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <h2>
+                Re-open Job
+              </h2>
+            </button>
+          </div>
+        </div>
+        <div
+          className="column"
+          style={
+            Object {
+              "textAlign": "right",
+            }
+          }
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui teal button ui button"
+                id="add_mechanic"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Assign mechanic"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="doctor icon"
+                  />
+                </h1>
+                Drake F
+              </button>
+              <button
+                className="ui blue button ui button"
+                onClick={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="print icon"
+                  />
+                </h1>
+                Job Card
+              </button>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui grey disabled button ui button"
+                disabled={true}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                tabIndex={-1}
+                title="This is a refurbish, there is no customer to call"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="phone icon"
+                  />
+                </h1>
+                Call Customer
+              </button>
+              <button
+                className="ui grey disabled button ui button"
+                disabled={true}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                tabIndex={-1}
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="talk icon"
+                  />
+                </h1>
+                Send SMS
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Job Card Job Card Quality Check 1`] = `
+<div
+  className="accordion ui fluid styled job-card-container"
+>
+  <div
+    className="title"
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#ffffba",
+        "fontSize": "1.5em",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="five column row"
+        mobile={2}
+      >
+        <div
+          className="one wide column"
+        >
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+          />
+        </div>
+        <div
+          className="three wide column"
+        >
+          <div>
+            <strong>
+              Quality Check
+            </strong>
+          </div>
+        </div>
+        <div
+          className="six wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            JOB911 Lime Specialized Katana
+          </div>
+        </div>
+        <div
+          className="four wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            Miss Kaitlyn Kunde
+          </div>
+        </div>
+        <div
+          className="two wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            $
+            144.45
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+    style={
+      Object {
+        "fontSize": "1em",
+        "marginLeft": "28px",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="two column row"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      >
+        <div
+          className="column"
+          style={
+            Object {
+              "fontSize": "1.2em",
+            }
+          }
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <strong>
+              Minor Service
+               
+            </strong>
+             Due: 
+            26/9/2018
+             
+            <strong>
+              Mechanic: 
+            </strong>
+            Clifton Casper
+          </div>
+          <ul>
+            <strong>
+              Activity: 
+            </strong>
+            <li>
+              Sat 1st Sep, 10:00 am - Update Status: Quality Check
+            </li>
+          </ul>
+          <br />
+          <div
+            className="ui buttons"
+          >
+            <button
+              className="ui green button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "textAlign": "center",
+                  "width": "200px",
+                }
+              }
+            >
+              <h2>
+                Quality Checked
+              </h2>
+            </button>
+            <button
+              className="ui red button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "marginLeft": "10px",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <h2>
+                Cancel Job
+              </h2>
+            </button>
+          </div>
+        </div>
+        <div
+          className="column"
+          style={
+            Object {
+              "textAlign": "right",
+            }
+          }
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui teal button ui button"
+                id="add_mechanic"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Assign mechanic"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="doctor icon"
+                  />
+                </h1>
+                Clifton C
+              </button>
+              <button
+                className="ui blue button ui button"
+                onClick={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="print icon"
+                  />
+                </h1>
+                Job Card
+              </button>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui pink button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Call customer"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="phone icon"
+                  />
+                </h1>
+                Call Customer
+              </button>
+              <button
+                className="ui purple button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="talk icon"
+                  />
+                </h1>
+                Send SMS
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Job Card Job Card Ready For Pick Up 1`] = `
+<div
+  className="accordion ui fluid styled job-card-container"
+>
+  <div
+    className="title"
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#ABD3B8",
+        "fontSize": "1.5em",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="five column row"
+        mobile={2}
+      >
+        <div
+          className="one wide column"
+        >
+          <i
+            aria-hidden="true"
+            className="dropdown icon"
+          />
+        </div>
+        <div
+          className="three wide column"
+        >
+          <div>
+            <strong>
+              Ready for Pick Up
+            </strong>
+          </div>
+        </div>
+        <div
+          className="six wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            JOB911 Cyan Apollo Trail Breaker
+          </div>
+        </div>
+        <div
+          className="four wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            Mrs. Bertram Ullrich
+          </div>
+        </div>
+        <div
+          className="two wide column"
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            $
+            116.3
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="content"
+    style={
+      Object {
+        "fontSize": "1em",
+        "marginLeft": "28px",
+      }
+    }
+  >
+    <div
+      className="ui stackable grid"
+    >
+      <div
+        className="two column row"
+        style={
+          Object {
+            "marginTop": "20px",
+          }
+        }
+      >
+        <div
+          className="column"
+          style={
+            Object {
+              "fontSize": "1.2em",
+            }
+          }
+        >
+          <div
+            className="item"
+            onClick={[Function]}
+            role="listitem"
+          >
+            <strong>
+              Custom Service
+               
+            </strong>
+             Due: 
+            26/9/2018
+             
+            <strong>
+              Mechanic: 
+            </strong>
+            Shanie Rogahn
+          </div>
+          <ul>
+            <strong>
+              Activity: 
+            </strong>
+            <li>
+              Sat 1st Sep, 10:00 am - Update Status: Ready for Pick Up
+            </li>
+          </ul>
+          <br />
+          <div
+            className="ui buttons"
+          >
+            <button
+              className="ui green button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "textAlign": "center",
+                  "width": "200px",
+                }
+              }
+            >
+              <h2>
+                Picked Up
+              </h2>
+            </button>
+            <button
+              className="ui red button ui button"
+              onClick={[Function]}
+              role="button"
+              style={
+                Object {
+                  "borderRadius": "5px",
+                  "marginLeft": "10px",
+                  "textAlign": "center",
+                }
+              }
+            >
+              <h2>
+                Cancel Job
+              </h2>
+            </button>
+          </div>
+        </div>
+        <div
+          className="column"
+          style={
+            Object {
+              "textAlign": "right",
+            }
+          }
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui teal button ui button"
+                id="add_mechanic"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Assign mechanic"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="doctor icon"
+                  />
+                </h1>
+                Shanie R
+              </button>
+              <button
+                className="ui blue button ui button"
+                onClick={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="print icon"
+                  />
+                </h1>
+                Job Card
+              </button>
+            </div>
+          </div>
+          <div
+            className="row"
+          >
+            <div
+              className="ui buttons"
+            >
+              <button
+                className="ui pink button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+                title="Call customer"
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="phone icon"
+                  />
+                </h1>
+                Call Customer
+              </button>
+              <button
+                className="ui purple button ui button"
+                onBlur={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseEnter={[Function]}
+                onMouseLeave={[Function]}
+                role="button"
+                style={
+                  Object {
+                    "borderRadius": "5px",
+                    "margin": "5px",
+                    "textAlign": "center",
+                  }
+                }
+              >
+                <h1>
+                  <i
+                    aria-hidden="true"
+                    className="talk icon"
+                  />
+                </h1>
+                Send SMS
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Job List Job Card List 1`] = `
+<div
+  className="ui grid"
+  style={
+    Object {
+      "marginLeft": "50px",
+      "marginRight": "50px",
+    }
+  }
+>
+  <div
+    className="centered row"
+  >
+    <h1>
+      Current Jobs
+    </h1>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="accordion ui fluid styled job-card-container"
+    >
+      <div
+        className="title"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#ABD3B8",
+            "fontSize": "1.5em",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="five column row"
+            mobile={2}
+          >
+            <div
+              className="one wide column"
+            >
+              <i
+                aria-hidden="true"
+                className="dropdown icon"
+              />
+            </div>
+            <div
+              className="three wide column"
+            >
+              <div>
+                <strong>
+                  Ready for Pick Up
+                </strong>
+              </div>
+            </div>
+            <div
+              className="six wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                JOB911 Pink Specialized Katana
+              </div>
+            </div>
+            <div
+              className="four wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                Carter Corwin
+              </div>
+            </div>
+            <div
+              className="two wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                $
+                150.39
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="content"
+        style={
+          Object {
+            "fontSize": "1em",
+            "marginLeft": "28px",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="two column row"
+            style={
+              Object {
+                "marginTop": "20px",
+              }
+            }
+          >
+            <div
+              className="column"
+              style={
+                Object {
+                  "fontSize": "1.2em",
+                }
+              }
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                <strong>
+                  Major Service
+                   
+                </strong>
+                 Due: 
+                26/9/2018
+                 
+                <strong>
+                  Mechanic: 
+                </strong>
+                Kip Rath
+              </div>
+              <ul>
+                <strong>
+                  Activity: 
+                </strong>
+                <li>
+                  Sat 1st Sep, 10:00 am - New Job Created By Mike
+                </li>
+              </ul>
+              <br />
+              <div
+                className="ui buttons"
+              >
+                <button
+                  className="ui green button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "textAlign": "center",
+                      "width": "200px",
+                    }
+                  }
+                >
+                  <h2>
+                    Picked Up
+                  </h2>
+                </button>
+                <button
+                  className="ui red button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "marginLeft": "10px",
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <h2>
+                    Cancel Job
+                  </h2>
+                </button>
+              </div>
+            </div>
+            <div
+              className="column"
+              style={
+                Object {
+                  "textAlign": "right",
+                }
+              }
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui teal button ui button"
+                    id="add_mechanic"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    title="Assign mechanic"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="doctor icon"
+                      />
+                    </h1>
+                    Kip R
+                  </button>
+                  <button
+                    className="ui blue button ui button"
+                    onClick={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="print icon"
+                      />
+                    </h1>
+                    Job Card
+                  </button>
+                </div>
+              </div>
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui pink button ui button"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    title="Call customer"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="phone icon"
+                      />
+                    </h1>
+                    Call Customer
+                  </button>
+                  <button
+                    className="ui purple button ui button"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="talk icon"
+                      />
+                    </h1>
+                    Send SMS
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="accordion ui fluid styled job-card-container"
+    >
+      <div
+        className="title"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#d2abd2",
+            "fontSize": "1.5em",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="five column row"
+            mobile={2}
+          >
+            <div
+              className="one wide column"
+            >
+              <i
+                aria-hidden="true"
+                className="dropdown icon"
+              />
+            </div>
+            <div
+              className="three wide column"
+            >
+              <div>
+                <strong>
+                  In Progress
+                </strong>
+              </div>
+            </div>
+            <div
+              className="six wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                JOB911 Silver Malvern Star Defy
+              </div>
+            </div>
+            <div
+              className="four wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                Refurbish
+              </div>
+            </div>
+            <div
+              className="two wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                $
+                159.57
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="content"
+        style={
+          Object {
+            "fontSize": "1em",
+            "marginLeft": "28px",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="two column row"
+            style={
+              Object {
+                "marginTop": "20px",
+              }
+            }
+          >
+            <div
+              className="column"
+              style={
+                Object {
+                  "fontSize": "1.2em",
+                }
+              }
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                <strong>
+                  Major Service
+                   
+                </strong>
+                 Due: 
+                26/9/2018
+                 
+                <strong>
+                  Mechanic: 
+                </strong>
+                Johanna Bahringer
+              </div>
+              <ul>
+                <strong>
+                  Activity: 
+                </strong>
+                <li>
+                  Sat 1st Sep, 10:00 am - New Job Created By Mike
+                </li>
+              </ul>
+              <br />
+              <div
+                className="ui buttons"
+              >
+                <button
+                  className="ui green button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "textAlign": "center",
+                      "width": "200px",
+                    }
+                  }
+                >
+                  <h2>
+                    Service Done
+                  </h2>
+                </button>
+                <button
+                  className="ui red button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "marginLeft": "10px",
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <h2>
+                    Cancel Job
+                  </h2>
+                </button>
+              </div>
+            </div>
+            <div
+              className="column"
+              style={
+                Object {
+                  "textAlign": "right",
+                }
+              }
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui teal button ui button"
+                    id="add_mechanic"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    title="Assign mechanic"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="doctor icon"
+                      />
+                    </h1>
+                    Johanna B
+                  </button>
+                  <button
+                    className="ui blue button ui button"
+                    onClick={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="print icon"
+                      />
+                    </h1>
+                    Job Card
+                  </button>
+                </div>
+              </div>
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui grey disabled button ui button"
+                    disabled={true}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    tabIndex={-1}
+                    title="This is a refurbish, there is no customer to call"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="phone icon"
+                      />
+                    </h1>
+                    Call Customer
+                  </button>
+                  <button
+                    className="ui grey disabled button ui button"
+                    disabled={true}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    tabIndex={-1}
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="talk icon"
+                      />
+                    </h1>
+                    Send SMS
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="accordion ui fluid styled job-card-container"
+    >
+      <div
+        className="title"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "lightblue",
+            "fontSize": "1.5em",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="five column row"
+            mobile={2}
+          >
+            <div
+              className="one wide column"
+            >
+              <i
+                aria-hidden="true"
+                className="dropdown icon"
+              />
+            </div>
+            <div
+              className="three wide column"
+            >
+              <div>
+                <strong>
+                  New
+                </strong>
+              </div>
+            </div>
+            <div
+              className="six wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                JOB911 Magenta Apollo Cypress
+              </div>
+            </div>
+            <div
+              className="four wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                Edison Keebler
+              </div>
+            </div>
+            <div
+              className="two wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                $
+                158.9
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="content"
+        style={
+          Object {
+            "fontSize": "1em",
+            "marginLeft": "28px",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="two column row"
+            style={
+              Object {
+                "marginTop": "20px",
+              }
+            }
+          >
+            <div
+              className="column"
+              style={
+                Object {
+                  "fontSize": "1.2em",
+                }
+              }
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                <strong>
+                  Major Service
+                   
+                </strong>
+                 Due: 
+                26/9/2018
+                 
+                <strong>
+                  Mechanic: 
+                </strong>
+                Ian Frami
+              </div>
+              <ul>
+                <strong>
+                  Activity: 
+                </strong>
+                <li>
+                  Sat 1st Sep, 10:00 am - New Job Created By Mike
+                </li>
+              </ul>
+              <br />
+              <div
+                className="ui buttons"
+              >
+                <button
+                  className="ui green button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "textAlign": "center",
+                      "width": "200px",
+                    }
+                  }
+                >
+                  <h2>
+                    Start
+                  </h2>
+                </button>
+                <button
+                  className="ui red button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "marginLeft": "10px",
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <h2>
+                    Cancel Job
+                  </h2>
+                </button>
+              </div>
+            </div>
+            <div
+              className="column"
+              style={
+                Object {
+                  "textAlign": "right",
+                }
+              }
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui teal button ui button"
+                    id="add_mechanic"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    title="Assign mechanic"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="doctor icon"
+                      />
+                    </h1>
+                    Ian F
+                  </button>
+                  <button
+                    className="ui blue button ui button"
+                    onClick={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="print icon"
+                      />
+                    </h1>
+                    Job Card
+                  </button>
+                </div>
+              </div>
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui pink button ui button"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    title="Call customer"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="phone icon"
+                      />
+                    </h1>
+                    Call Customer
+                  </button>
+                  <button
+                    className="ui purple button ui button"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="talk icon"
+                      />
+                    </h1>
+                    Send SMS
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="row"
+  >
+    <div
+      className="accordion ui fluid styled job-card-container"
+    >
+      <div
+        className="title"
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#ABD3B8",
+            "fontSize": "1.5em",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="five column row"
+            mobile={2}
+          >
+            <div
+              className="one wide column"
+            >
+              <i
+                aria-hidden="true"
+                className="dropdown icon"
+              />
+            </div>
+            <div
+              className="three wide column"
+            >
+              <div>
+                <strong>
+                  Ready for Pick Up
+                </strong>
+              </div>
+            </div>
+            <div
+              className="six wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                JOB911 Pink Specialized Katana
+              </div>
+            </div>
+            <div
+              className="four wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                Carter Corwin
+              </div>
+            </div>
+            <div
+              className="two wide column"
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                $
+                150.39
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="content"
+        style={
+          Object {
+            "fontSize": "1em",
+            "marginLeft": "28px",
+          }
+        }
+      >
+        <div
+          className="ui stackable grid"
+        >
+          <div
+            className="two column row"
+            style={
+              Object {
+                "marginTop": "20px",
+              }
+            }
+          >
+            <div
+              className="column"
+              style={
+                Object {
+                  "fontSize": "1.2em",
+                }
+              }
+            >
+              <div
+                className="item"
+                onClick={[Function]}
+                role="listitem"
+              >
+                <strong>
+                  Major Service
+                   
+                </strong>
+                 Due: 
+                26/9/2018
+                 
+                <strong>
+                  Mechanic: 
+                </strong>
+                Kip Rath
+              </div>
+              <ul>
+                <strong>
+                  Activity: 
+                </strong>
+                <li>
+                  Sat 1st Sep, 10:00 am - New Job Created By Mike
+                </li>
+              </ul>
+              <br />
+              <div
+                className="ui buttons"
+              >
+                <button
+                  className="ui green button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "textAlign": "center",
+                      "width": "200px",
+                    }
+                  }
+                >
+                  <h2>
+                    Picked Up
+                  </h2>
+                </button>
+                <button
+                  className="ui red button ui button"
+                  onClick={[Function]}
+                  role="button"
+                  style={
+                    Object {
+                      "borderRadius": "5px",
+                      "marginLeft": "10px",
+                      "textAlign": "center",
+                    }
+                  }
+                >
+                  <h2>
+                    Cancel Job
+                  </h2>
+                </button>
+              </div>
+            </div>
+            <div
+              className="column"
+              style={
+                Object {
+                  "textAlign": "right",
+                }
+              }
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui teal button ui button"
+                    id="add_mechanic"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    title="Assign mechanic"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="doctor icon"
+                      />
+                    </h1>
+                    Kip R
+                  </button>
+                  <button
+                    className="ui blue button ui button"
+                    onClick={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="print icon"
+                      />
+                    </h1>
+                    Job Card
+                  </button>
+                </div>
+              </div>
+              <div
+                className="row"
+              >
+                <div
+                  className="ui buttons"
+                >
+                  <button
+                    className="ui pink button ui button"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                    title="Call customer"
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="phone icon"
+                      />
+                    </h1>
+                    Call Customer
+                  </button>
+                  <button
+                    className="ui purple button ui button"
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onFocus={[Function]}
+                    onMouseEnter={[Function]}
+                    onMouseLeave={[Function]}
+                    role="button"
+                    style={
+                      Object {
+                        "borderRadius": "5px",
+                        "margin": "5px",
+                        "textAlign": "center",
+                      }
+                    }
+                  >
+                    <h1>
+                      <i
+                        aria-hidden="true"
+                        className="talk icon"
+                      />
+                    </h1>
+                    Send SMS
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Member.Add MemberAdd 1`] = `null`;
+
+exports[`Storyshots Member.Add MemberAddControl 1`] = `
+<div>
+  <p>
+    Use Knobs to select step, currently on step 
+    1
+  </p>
+  <div
+    style={
+      Object {
+        "marginTop": "50px",
+      }
+    }
+  >
+    <button
+      className="ui left floated button"
+      onClick={[Function]}
+      role="button"
+      type="button"
+    >
+      <i
+        aria-hidden="true"
+        className="arrow left icon"
+      />
+      Back
+    </button>
+    <button
+      className="ui right floated button"
+      onClick={[Function]}
+      role="button"
+      type="submit"
+    >
+      Next
+      <i
+        aria-hidden="true"
+        className="arrow right icon"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Member.Add MemberAddReview 1`] = `
+<div>
+  <p>
+    Use Knobs to show checked in/out status
+  </p>
+  <div
+    className="ui segment"
+    style={
+      Object {
+        "textAlign": "left",
+      }
+    }
+  >
+    <h1
+      className="ui center aligned header"
+    >
+      Review your details:
+    </h1>
+    <img
+      className="ui tiny circular centered image"
+      onClick={[Function]}
+      src="/images/avatars/7.jpg"
+    />
+    <div
+      className="ui very padded segment"
+    >
+      <h2
+        onClick={[Function]}
+      >
+        <span>
+          About You
+        </span>
+        <button
+          className="ui basic circular icon right floated button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="pencil icon"
+          />
+        </button>
+      </h2>
+      <div
+        className="ui segments"
+      >
+        <div
+          className="ui segment"
+        >
+          <strong>
+            How many bikes in your household?
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              5
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            What type of bike do you ride the most?
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              Racer
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Work status
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              Student
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Reasons for volunteering
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              My love of bikes started as a child. It was my transport growing up, 
+  	I had no money to pay for repairs, so I had to fix it myself. My best bike 
+  	was a white Sun 10 speed racer. I saved up for months to buy it. I saved
+  	money from my paper round, and my dad threw some money in too.
+  
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui very padded segment"
+    >
+      <h2
+        onClick={[Function]}
+      >
+        <span>
+          Contact
+        </span>
+        <button
+          className="ui basic circular icon right floated button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="pencil icon"
+          />
+        </button>
+      </h2>
+      <div
+        className="ui segments"
+      >
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Name
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              Orie Kautzer
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Email
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              Jelly.Belly@smells.nasty.com
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Street Address
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              199 Henderson Spur
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Suburb
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              South Melbourne
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            State
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              VIC
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Postcode
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              3428
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Phone number
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              144-467-2060
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Mobile number
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              352-485-4816
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            PIN number
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              0000
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui very padded segment"
+    >
+      <h2
+        onClick={[Function]}
+      >
+        <span>
+          Emergency
+        </span>
+        <button
+          className="ui basic circular icon right floated button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="pencil icon"
+          />
+        </button>
+      </h2>
+      <div
+        className="ui segments"
+      >
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Emergency Contact Name
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              Everett Mosciski
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Emergency Contact Email
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              Ibrahim.Flatley@gmail.com
+            </span>
+          </span>
+        </div>
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Emergency Contact Mobile number
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <span>
+              848-924-0182
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui very padded segment"
+    >
+      <h2
+        onClick={[Function]}
+      >
+        <span>
+          Avatar
+        </span>
+        <button
+          className="ui basic circular icon right floated button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="pencil icon"
+          />
+        </button>
+      </h2>
+      <div
+        className="ui segments"
+      >
+        <div
+          className="ui segment"
+        >
+          <strong>
+            Avatar
+          </strong>
+          <span
+            style={
+              Object {
+                "paddingLeft": "1em",
+              }
+            }
+          >
+            <img
+              className="ui avatar image"
+              src="/images/avatars/7.jpg"
+            />
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="ui very padded segment"
+    >
+      <h2
+        onClick={[Function]}
+      >
+        <span>
+          Terms
+        </span>
+        <button
+          className="ui basic circular icon right floated button"
+          onClick={[Function]}
+          role="button"
+        >
+          <i
+            aria-hidden="true"
+            className="pencil icon"
+          />
+        </button>
+      </h2>
+      <div
+        className="ui segments"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Member.Add.Iframe Success 1`] = `
+<div
+  className="ui centered center aligned middle aligned grid"
+  style={
+    Object {
+      "height": "100%",
+    }
+  }
+>
+  <div
+    className="column"
+  >
+    <div
+      className="ui message"
+    >
+      <div
+        className="header"
+      >
+        You were successfully added to the database.
+      </div>
+      <p>
+         
+      </p>
+      <p>
+        Your avatar card will look like this:
+      </p>
+    </div>
+    <div
+      className="ui centered cards"
+    >
+      <div
+        className="ui card"
+        onClick={[Function]}
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+      >
+        <img
+          className="ui image"
+          src="/images/avatars/7.jpg"
+          style={
+            Object {
+              "opacity": "1",
+            }
+          }
+        />
+        <div
+          className="content"
+        >
+          <div
+            className="header"
+          >
+             
+            Orie Kautzer
+             
+            <br />
+            
+          </div>
+          <div
+            className="content"
+          >
+            <div
+              className="ui orange left corner label"
+              onClick={[Function]}
+            >
+              <i
+                aria-hidden="true"
+                className="student icon"
+              />
+            </div>
+            <div
+              style={
+                Object {
+                  "padding": "10px 0",
+                }
+              }
+            >
+              <div
+                about="Orie Kautzer"
+                className="ui green small label"
+                onClick={[Function]}
+              >
+                <i
+                  aria-hidden="true"
+                  className="star half full icon"
+                />
+                5
+              </div>
+              <div
+                className="ui green small label"
+                onClick={[Function]}
+              >
+                rookie
+              </div>
+            </div>
+            <div />
+          </div>
+        </div>
+        <div
+          className="extra content"
+        >
+          <div>
+            <p>
+              Arrived:
+               
+              a few seconds
+               ago
+               
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Member.Card Small 1`] = `null`;
+
+exports[`Storyshots Member.List Member Counter 1`] = `null`;
+
+exports[`Storyshots Member.Session Forgot PIN 1`] = `null`;
+
+exports[`Storyshots Member.Session Sign in 1`] = `null`;
+
+exports[`Storyshots MyMember MembershipCard 1`] = `
+<div
+  className="ui grid member-card-container"
+>
+  <div
+    className="sixteen wide column ui grid card-header"
+  >
+    <div
+      className="sixteen wide column"
+    >
+      MANH HUY VO
+    </div>
+  </div>
+  <div
+    className="ui grid sixteen wide column card-content-container"
+  >
+    <div
+      className="four wide column card-avatar-container"
+    >
+      <img
+        className="card-avatar-img"
+        src="avatars/test10.png"
+      />
+    </div>
+    <div
+      className="ui grid twelve wide column card-details-container"
+    >
+      <div
+        className="sixteen wide column card-details-attributes title"
+      >
+        Last seen 
+        a few seconds ago
+      </div>
+      <div
+        className="sixteen wide column card-details-attributes title"
+      >
+        Email 
+      </div>
+      <div
+        className="sixteen wide column card-details-attributes title"
+      >
+        Mobile 
+      </div>
+      <div
+        className="sixteen wide column card-details-attributes title"
+      >
+        Expires
+         
+        N/A
+      </div>
+      <div
+        className="sixteen wide column card-details-attributes title"
+      >
+        Member Type 
+         
+         
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Navbar Navbar 1`] = `
+<div>
+  <p>
+    Navbar 
+  </p>
+  <div
+    className="menunavbar"
+  >
+    <img
+      className="ui image navbarlogo"
+      onClick={[Function]}
+      src="/images/logo-large.jpg"
+    />
+    <div
+      className="menu-buttons"
+    >
+      <button
+        className="ui green button navbutton"
+        onClick={[Function]}
+        role="button"
+      >
+        <i
+          aria-hidden="true"
+          className="home icon"
+        />
+        Home
+      </button>
+      <button
+        className="ui blue button navbutton"
+        onClick={[Function]}
+        role="button"
+      >
+        <i
+          aria-hidden="true"
+          className="dashboard icon"
+        />
+        Admin
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Part.Card Card 1`] = `null`;
+
+exports[`Storyshots Punch-card Multi-Visits-Card 1`] = `
+<div
+  className="multi-visit-card"
+>
+  <div
+    className="Container"
+  >
+    <h1
+      className="header"
+    >
+      Visits
+    </h1>
+  </div>
+  <div
+    className="Container"
+  >
+    <div
+      className="digitParent"
+    >
+      <img
+        className="usedMultiDigit"
+        src="images/smiley.png"
+      />
+    </div>
+    <div
+      className="digitParent"
+    >
+      <img
+        className="usedMultiDigit"
+        src="images/smiley.png"
+      />
+    </div>
+    <div
+      className="digitParent"
+    >
+      <img
+        className="usedMultiDigit"
+        src="images/smiley.png"
+      />
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        4
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        5
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        6
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        7
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        8
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        9
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        10
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        11
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <p
+        className="multiDigit"
+        onClick={[Function]}
+      >
+        12
+      </p>
+    </div>
+  </div>
+  <div
+    className="footer"
+  >
+    You have used 
+    25
+    % of your visits.
+  </div>
+</div>
+`;
+
+exports[`Storyshots Punch-card Punchcard 1`] = `
+<div
+  className="Punch-Card"
+>
+  <div
+    className="Container"
+  >
+    <h1
+      className="header"
+    >
+      Maintenance Course
+    </h1>
+  </div>
+  <div
+    className="Container"
+  />
+  <div
+    className="footer"
+  >
+    NaN
+    % Completed
+  </div>
+</div>
+`;
+
+exports[`Storyshots Punch-card Punchcard false 1`] = `
+<div
+  className="Punch-Card"
+>
+  <div
+    className="Container"
+  >
+    <h1
+      className="header"
+    >
+      Maintenance Course
+    </h1>
+  </div>
+  <div
+    className="Container"
+  >
+    <div
+      className="digitParent"
+    >
+      <img
+        className="Digit"
+        onClick={[Function]}
+        src="/images/punctures.jpg"
+      />
+      <p
+        className="weekName"
+      >
+        Punctures
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <img
+        className="Digit"
+        onClick={[Function]}
+        src="/images/gears-cleaning.jpg"
+      />
+      <p
+        className="weekName"
+      >
+        Gears cleaning
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <img
+        className="Digit"
+        onClick={[Function]}
+        src="/images/gears-tuning.jpg"
+      />
+      <p
+        className="weekName"
+      >
+        Gears tuning
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <img
+        className="Digit"
+        onClick={[Function]}
+        src="/images/bearings.jpg"
+      />
+      <p
+        className="weekName"
+      >
+        Wheel bearings
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <img
+        className="Digit"
+        onClick={[Function]}
+        src="/images/brakes.jpg"
+      />
+      <p
+        className="weekName"
+      >
+        Brakes
+      </p>
+    </div>
+    <div
+      className="digitParent"
+    >
+      <img
+        className="Digit"
+        onClick={[Function]}
+        src="/images/forks.jpg"
+      />
+      <p
+        className="weekName"
+      >
+        Forks and B/B
+      </p>
+    </div>
+  </div>
+  <div
+    className="footer"
+  >
+    0
+    % Completed
+  </div>
+</div>
+`;
+
+exports[`Storyshots Purchase Card 1`] = `
+<div>
+  <button
+    className="ui button"
+    onClick={[Function]}
+    role="button"
+  >
+    <div
+      className="ui card"
+      onClick={[Function]}
+    >
+      <div
+        className="content"
+        onClick={[Function]}
+      >
+        <div
+          className="header"
+        >
+          10 visit pass
+        </div>
+        <div>
+          10 visits, usable at any of our evening sessions 
+        </div>
+        <div>
+          Price: 
+          $9.99
+        </div>
+      </div>
+    </div>
+  </button>
+</div>
+`;
